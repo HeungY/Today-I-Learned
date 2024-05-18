@@ -20,3 +20,5 @@
 24.05.09 개발자 특강 ( 자소서 작성법, 마인드셋 )  [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-09.md)
 
 24.05.10 Java Script File System [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-10.md)
+
+24.05.13 세션-쿠키 맛보기 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-13.md)
