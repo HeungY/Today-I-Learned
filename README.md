@@ -24,3 +24,5 @@
 24.05.13 세션-쿠키 맛보기 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-13.md)
 
 24.05.14 세션-쿠키 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-14.md)
+
+24.05.17 Java 예외처리 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-17.md)
