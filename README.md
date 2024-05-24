@@ -26,3 +26,5 @@
 24.05.14 세션-쿠키 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-14.md)
 
 24.05.17 Java 예외처리 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-17.md)
+
+24.05.17 Java CLI 프로그램 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-20.md)
