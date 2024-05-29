@@ -28,3 +28,5 @@
 24.05.17 Java 예외처리 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-17.md)
 
 24.05.20 Java CLI 프로그램 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-20.md)
+
+24.05.21 Java CLI 프로그램 설계 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-21.md)
