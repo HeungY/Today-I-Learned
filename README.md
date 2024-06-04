@@ -34,3 +34,5 @@
 24.05.22 Java 이론 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-22.md)
 
 24.05.23 Java 비동기 [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-23.md)
+
+24.05.24 Java Serialization [🌱](https://github.com/HeungY/Today-I-Learned/blob/main/May/2024-05-24.md)
